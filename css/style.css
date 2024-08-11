@@ -1,0 +1,30 @@
+/*
+  color-primario: #9317E8
+  color-secuendario: #172CE8
+  color-terciario: #E82217
+  color-cuarto: #E81771
+  */
+.h1{
+    color: rgb(0, 0, 0);
+    background-color: rgb(99, 1, 165);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+.h3{
+    color: rgb(10, 0, 145);
+
+  }
+.parafo{
+    color: black;
+    background-color: blue;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+.a{
+    color: black;
+    background-color: brown;
+    font-size: 25px;
+  }
+  .li1,.li2,.li3,.li4,.li5{
+    color: rgb(73, 226, 43);
+    font-size: 15px;
+  }
